@@ -8,3 +8,4 @@ Set up React locally
 - Create a basic HTML page
 - Add a DOM Container to the HTML
 - Add the Script Tags
+- Create a React Component
