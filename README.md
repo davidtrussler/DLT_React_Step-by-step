@@ -4,4 +4,7 @@ This is based on the official ReactJS Step by Step Guide to learning React, whic
 
 ## Step 1
 
-Create a basic HTML page
+Set up React locally
+- Create a basic HTML page
+- Add a DOM Container to the HTML
+
