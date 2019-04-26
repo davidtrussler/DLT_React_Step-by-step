@@ -9,3 +9,6 @@ Set up React locally
 - Add a DOM Container to the HTML
 - Add the Script Tags
 - Create a React Component
+- Add JSX to the Project
+  - Run ```npm install``` to install from package.json
+  - Run ```npx babel --watch src --out-dir . --presets react-app/prod``` to start watcher

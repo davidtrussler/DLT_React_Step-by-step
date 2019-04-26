@@ -1,0 +1,24 @@
+{
+  "name": "DLT_React_Step-by-step",
+  "version": "1.0.0",
+  "description": "This is based on the official ReactJS Step by Step Guide to learning React, which is online [here](https://reactjs.org/docs/hello-world.html).",
+  "main": "like_button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtrussler/DLT_React_Step-by-step.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtrussler/DLT_React_Step-by-step/issues"
+  },
+  "homepage": "https://github.com/davidtrussler/DLT_React_Step-by-step#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
